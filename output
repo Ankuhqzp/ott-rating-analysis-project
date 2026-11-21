@@ -1,0 +1,51 @@
+=============================================
+       OTT RATING ANALYSIS PROJECT
+=============================================
+
+Here is the list of shows in our dataset:
+
+     Platform           Title     Genre  Rating  Views
+      Netflix      Money Heist     Crime     8.5    100
+ Prime Video         Mirzapur    Action     8.4     85
+     Disney+             Loki    Sci-Fi     8.2     90
+      Netflix             Dark  Thriller     8.7     75
+ Prime Video          The Boys    Action     8.7     95
+     Disney+       WandaVision   Fantasy     7.9     80
+      Netflix  Stranger Things    Sci-Fi     8.7    120
+ Prime Video            Farzi     Crime     8.4     70
+
+--- Platform Rating Comparison ---
+Disney+ has an average rating of 8.05/10
+Netflix has an average rating of 8.63/10
+Prime Video has an average rating of 8.50/10
+
+--- Top Rated Show ---
+The highest rated show is 'Dark'.
+It has a rating of 8.7/10.
+It is available on Netflix.
+
+--- Total Views ---
+Disney+ has a total of 170 views.
+Netflix has a total of 295 views.
+Prime Video has a total of 250 views.
+
+--- Genre Analysis ---
+We have 2 shows in the Crime genre.
+We have 2 shows in the Action genre.
+We have 2 shows in the Sci-Fi genre.
+We have 1 shows in the Thriller genre.
+We have 1 shows in the Fantasy genre.
+
+=============================================
+              PROJECT SUMMARY
+=============================================
+After analyzing the data, we found that:
+- Netflix has the highest average rating.
+- 'Dark' is one of the top-rated shows.
+- 'Stranger Things' has the highest views.
+
+This project helped us understand OTT data
+using Python, pandas and visualization libraries.
+
+Thank you for using our OTT Rating Analysis!
+=============================================
